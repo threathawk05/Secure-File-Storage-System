@@ -82,7 +82,7 @@ pip install PyQt5 cryptography sqlite3
 
 ### **Run the Application**
 ```bash
-python main.py
+python app.py
 ```
 
 ---
